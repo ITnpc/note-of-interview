@@ -9,21 +9,20 @@
 本文档github地址：https://github.com/zhengjianglong915/note-of-interview
 
 # 作者简介
-作者: 入境繁华
-
-微博：[@入境繁华](http://weibo.com/2711026835/profile?rightmod=1&wvr=6&mod=personinfo)
+作者: 畅逸风
 
 个人主页：[https://zhengjianglong915.github.io/](https://zhengjianglong915.github.io/)
 
 简书地址： http://www.jianshu.com/u/9f1f5db3d6b8
 
-个人公众号(欢迎关注)：
+个人公众号(欢迎关注)：主要分享分布式、中间件、云原生相关原理，以及对一些面试题的分解。
 
 ![](/assets/weix_gongzhonghao.jpg)
 
 
 # 声明
-如果有错之处还望指出和纠正。联系方式:zhengjianglong915@gmail.com
+如果有错之处还望指出和纠正。可以加公众号联系我。
+
 
 ## 内容提纲
 * [前言](abstract.md)
